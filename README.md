@@ -47,7 +47,7 @@ Source Code: [github link](https://github.com/ManishDass/Online-Student-Admissio
 
 
 ## Architecture of your Project Home Directory
-<p><img  alt="GIF" src="https://github.com/ManishDass/Online-Student-Admission/assets/img/structure.png" width="240" height="410" /></p>
+<p><img  alt="GIF" src="https://github.com/ManishDass/Online-Student-Admission/blob/main/assets/img/structure.png?raw=true" width="240" height="410" /></p>
 
 
 ### If you Use this Code for Any Commercial Purpose. Please Don't Forget To mention or give shoutout to [ManishDass](https://github.com/ManishDass).
