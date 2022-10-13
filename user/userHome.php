@@ -1,6 +1,6 @@
 <?php
 $cn = mysqli_connect("localhost", "root", "", "db_admission");
-
+include("../auth_session.php");
 
 ?>
 
@@ -105,6 +105,13 @@ $cn = mysqli_connect("localhost", "root", "", "db_admission");
     <!--=========================== Content-area ============================-->
     <div class="content-area">
         <div class="container-fluid">
+
+        <div class="row">
+                <div class="col-md-12 mt-5 mb-4">
+                    <h1 id="greet">Welcome, <?php echo $_SESSION['username']; ?></h1>
+                    <p class="text-center"> Hope you are having great day ahead</p>
+                </div>
+            </div>
 
         <div class="row">
                 <div class="col-md-12">
